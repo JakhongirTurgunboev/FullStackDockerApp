@@ -1,0 +1,3 @@
+[submodule "FullStackDockerApp"]
+	path = FullStackDockerApp
+	url = https://github.com/JakhongirTurgunboev/FullStackDockerApp.git
